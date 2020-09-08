@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adamr8484/learning-git/issues"
   },
-  "homepage": "https://github.com/adamr8484/learning-git#readme"
+  "homepage": "https://github.com/adamr8484/learning-git#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.12"
+  }
 }
